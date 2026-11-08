@@ -100,7 +100,7 @@ public class AbstractDAO<T> {
     }
 
     /**
-     * Construim query-ul DELETE pentru entitatea curenta.
+     * Construim query-ul DELETE.
      *
      * @return query-ul DELETE construit
      */
